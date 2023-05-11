@@ -4,7 +4,7 @@ This is my home page! My name is Jaylin Taylor and I am a student at [Cal State 
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/JayT04.
+My GitHub page is http://github.com/JayT04
 
 ### CPSC 120
 
